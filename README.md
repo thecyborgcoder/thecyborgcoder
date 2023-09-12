@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @futuretechmoney
-- 👀 I’m interested in DeFi, Machine Learning, and Creative Coding
-- 🌱 I’m currently learning Solidity, ReactJs, BabylonJS, Godot
+- 👋 Hi, I’m @thecyborgcoder
+- 👀 I’m interested in DeFi, Machine Learning, Game Development and Creative Coding
+- 🌱 I’m currently learning Phaser3 and Machine Learning
 - 💞️ I’m looking to collaborate on DeFi, NFT, and/or gaming projects
-- 📫 Reach me @futuretechmoney on Telegram or Instagram
+- 📫 Reach me @cyborgcoder on Instagram
 
